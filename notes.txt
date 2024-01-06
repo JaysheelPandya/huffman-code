@@ -1,0 +1,6 @@
+while the integer code is not 256
+    read bit one at a time
+        go left if 0
+        go right if 1
+    until reaching leaf node
+        .left and .right are null
